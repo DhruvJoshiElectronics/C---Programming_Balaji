@@ -10,4 +10,5 @@ int main()
   printf("Enter the Number : ");
   scanf("%d", &number);
   printf("The one's Digit is : %d ", (number%10));
+  printf("The ten's Digit is : %d ", (number/10));
 }
