@@ -8,3 +8,13 @@
 // int Science;
 // struct student *next;
 // }
+
+#include<stdio.h>
+
+int main(void)
+{
+  
+
+
+
+
